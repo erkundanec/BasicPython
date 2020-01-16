@@ -4,21 +4,21 @@
 
 .CodeMirror pre, .CodeMirror-dialog, .CodeMirror-dialog .CodeMirror-search-field, .terminal-app .terminal {
     font-family: YOUR-FAV-FONT;
-    font-size: 12pt;
+    font-size: 16pt;
 }
 
 .CodeMirror pre {
     font-family: "Ubuntu", monospace;
 }
     div.cell{
-        //width: 950px;
+        width: 950px;
         margin-left: 0% !important;
         margin-right: auto;
     }
     div.text_cell_render{
         font-family: 'Lora';
         line-height: 125%;
-        font-size: 130%;
+        font-size: 150%;
         text-align: justify;
         text-justify:inter-word;
     }
@@ -123,7 +123,7 @@
 }
 
     code{
-        font-size: 7pt;
+        font-size: 12pt;
 
     }
     .rendered_html code{
