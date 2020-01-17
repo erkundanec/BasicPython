@@ -7,28 +7,35 @@
     font-size: 12pt;
 }
 
-.CodeMirror pre {
-    font-family: "Ubuntu", monospace;
-font-size = 18px;
-}
+    .CodeMirror pre {
+        font-family: "Ubuntu", monospace;
+        font-size = 18px;
+    }
+
+    div.output pre {
+        line-height: 125%;
+        font-size: 16pt;
+        color: #f77919;
+    }
 
     div.cell{
         width: 950px;
         margin-left: 0% !important;
         margin-right: auto;
     }
+
     div.text_cell_render{
         font-family: 'Lora';
         line-height: 125%;
-        font-size: 18pt;
+        font-size: 16pt;
         text-align: justify;
         text-justify:inter-word;
     }
     div.text_cell code {
         background: transparent;
-        color: #000000;
+        color: #2488ed;
         font-weight: 400;
-        font-size: 18pt;
+        font-size: 16pt;
         font-family:  'Source Code Pro', Consolas, monocco, monospace;
    }
     h1 {
