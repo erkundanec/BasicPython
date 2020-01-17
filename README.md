@@ -3,5 +3,5 @@
 This repository is created for quick start in python. 
 
 # Acknowledgement
-This repository is modified and improved version of 
+Few python lectures are modified and improved version of
 https://github.com/rajathkumarmp/Python-Lectures
